@@ -1,4 +1,7 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+git clone https://github.com/thewhiteh4t/seeker.git
+cd seeker/
+chmod +x install.sh
+./install.sh align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
 
 <p align="center">
     <a href="https://twitter.com/thewhiteh4t">
